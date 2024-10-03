@@ -1,0 +1,20 @@
+body{background-color:#cce3de}
+nav{background-color:#6b9080;height:80px;width:1300;display:flex;align-items:center}
+a{text-decoration:None;color:black}
+li{list-style-type:None;display:inline-block;font-size:15px}
+#B{margin-right:60px}
+#C{margin:2px 66px 2px 66px}
+#D{margin:2px 66px 2px 66px}
+#E{margin:2px 66px 2px 66px}
+#F{margin:2px 66px 2px 66px}
+#search{margin-left:66px}
+h1{text-align:center;padding:none;color:black}
+p{text-align:left;height:900px;width:800px;font-size:20px;color:black;background-color:#a4c3b2}
+main{height:900px}
+#main{height:800px;width:450px;position:absolute;right:10px;top:145px;border: 2px solid black;background-image:url("C3.webp");background-size:cover}
+footer{background-color:#22333b;text-align:center;color:white;height:200px}
+ul{display:flex;justify-content:space-evenly}
+li{list-style-type:none}
+a{text-decoration:none;color:white}
+
+
